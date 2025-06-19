@@ -1,4 +1,7 @@
-# Sentiment-Analysis-using-Naive-Bayes-Algorithm
+# Bilingual Translation usinh KNN
+## NAME: Mithun M S
+## REGNO:212222240067
+
 
 ## AIM:
 To develop a simple bilingual translation model that translates English sentences to French using TF-IDF vectorization and K-Nearest Neighbors (KNN) based on cosine similarity.
